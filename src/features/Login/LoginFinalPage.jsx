@@ -1,7 +1,7 @@
 import React from 'react';
 import './LoginFinalPage.css';
 import arrow from '../../assets/icons/white.svg';
-import finalImg from '../../assets/images/illustration.png';
+import finalImg from '../../assets/images/Illustration.png';
 
 function LoginFinalPage() {
   return (
