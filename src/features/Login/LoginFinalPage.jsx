@@ -8,10 +8,10 @@ function LoginFinalPage() {
     <div className='final-page'>
       <div className="final-container">
         <div className='final-content'>
-          <img src={finalImg} alt="" />
+          <img src={finalImg} alt="hi" />
           <div className='final-bottom'>
             <h2>You are successfully registered!</h2>
-            <button>Let's start <img src={arrow} alt="" /></button>
+            <button>Let's start <img src={arrow} alt="ar" /></button>
           </div>
         </div>
       </div>
