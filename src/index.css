@@ -22,3 +22,6 @@ input:-webkit-autofill {
 button:hover {
     opacity: 80%;
 }
+button:active {
+    transform: scale(0.98);
+}
